@@ -1062,13 +1062,30 @@ section.lazy-placeholder:after {
 .cid-rRzqnEoa5U .mbr-section-btn {
   text-align: left;
 }
-.cid-rSboIUDudh {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rSbys5ao7i {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rSboIUDudh .mbr-section-subtitle {
+.cid-rSbys5ao7i h3 {
+  text-align: center;
+}
+.cid-rSbys5ao7i .mbr-section-subtitle {
   color: #767676;
+  font-weight: 300;
+}
+.cid-rSbys5ao7i .mbr-content-text {
+  color: #767676;
+}
+.cid-rSbys5ao7i .panel-item {
+  background: #ffffff;
+}
+.cid-rSbys5ao7i .card {
+  word-wrap: break-word;
+}
+.cid-rSbys5ao7i .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rS5FKGw1UH {
   padding-top: 90px;
@@ -1096,6 +1113,37 @@ section.lazy-placeholder:after {
 }
 .cid-rS5FKGw1UH LABEL {
   color: #ffffff;
+}
+.cid-rSbxEKnVsk {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rSbxEKnVsk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSbxy5yKsI {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rSbxy5yKsI .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rSbxy5yKsI .section-text {
+  padding: 2rem 0;
+}
+.cid-rSbxy5yKsI .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rSbxy5yKsI .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rRzqLA6JZL {
   padding-top: 60px;
@@ -1329,31 +1377,6 @@ section.lazy-placeholder:after {
 }
 .cid-rRzrTQZMcz .card {
   padding-bottom: 2rem;
-}
-.cid-rRzsowPrhD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rRzsowPrhD h3 {
-  text-align: center;
-}
-.cid-rRzsowPrhD .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rRzsowPrhD .mbr-content-text {
-  color: #767676;
-}
-.cid-rRzsowPrhD .panel-item {
-  background: #ffffff;
-}
-.cid-rRzsowPrhD .card {
-  word-wrap: break-word;
-}
-.cid-rRzsowPrhD .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
 }
 .cid-rRzsydeDAR {
   padding-top: 60px;
